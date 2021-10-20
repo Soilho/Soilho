@@ -8,15 +8,13 @@
 2. Contato <br/>
 
 
-- 📞 Celular/Whatsapp: 
+- 📞 Celsapp: 
 - 📧 Email: 
 
-3. Cursos  <br/>
+3. Cs  <br/>
 
-- 🚀 Curso 
-- 🌐 Curso 
-- 🎨 Curso 
-- 📃 Curso d
+- Curso 
+-
 
 ## teste
 
