@@ -1,6 +1,6 @@
 ### 👋 Well, Hello!
-<h2> My name is Soilho, bu u may call me you worst nightmare... Kiddin' 😋 </h2>
-<img align="right" width="40%" src="https://drive.google.com/file/d/1Uh_zjG3GTXEbVr8s317lLUhc3hu4YPTv/view?usp=sharing"/>
+<h2> My name is Soilho, </h2>
+<img align="right" width="40%" src="https://64.media.tumblr.com/4616f37446e226a63bd0742f37a14c8a/tumblr_n48kjpfo4S1qg6rkio1_500.gifv"/>
 1. Descrição <br/>
 
  ### teste
